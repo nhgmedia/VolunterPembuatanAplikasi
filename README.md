@@ -6,4 +6,5 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 Berikut daftar Volunter yang diterima:
 
-* Oon Arfiandwi, [00.0r.id](https://oo.or.id).
+* Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* M. Ibad Guthwara, [Linkedin](https://www.linkedin.com/in/m-ibad-guthwara/).
